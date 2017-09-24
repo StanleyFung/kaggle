@@ -1,0 +1,3 @@
+[submodule "DeepNeuralNet"]
+	path = DeepNeuralNet
+	url = https://github.com/StanleyFung/DeepNeuralNet.git
